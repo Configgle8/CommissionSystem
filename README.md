@@ -1,4 +1,4 @@
-# CommissionSystem
+# Commission/PayrollSystem
 C# program for a commission assignment detailing employee:
 
 Earnings,
