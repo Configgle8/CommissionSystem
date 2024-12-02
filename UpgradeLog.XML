@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Payroll">
+</Property><Property Name="Solution File" Value="C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Payroll.sln">
+</Property><Property Name="User Options File" Value="C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Payroll.suo">
+</Property><Property Name="Date" Value="Thursday, November 05, 2015">
+</Property><Property Name="Time" Value="12:38 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Payroll.sln" Description="File successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\Payroll.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Payroll.suo" Description="File successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\Payroll.suo">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="Payroll.csproj" Description="Project file successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\Payroll.csproj">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="Payroll.csproj.user" Description="Project user file successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\Payroll.csproj.user">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="Address.cs" Description="File successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\Address.cs">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="Course.cs" Description="File successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\Course.cs">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="Lecturer.cs" Description="File successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\Lecturer.cs">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="PayrollSystem.cs" Description="File successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\PayrollSystem.cs">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="FacultyMember.cs" Description="File successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\FacultyMember.cs">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="Professor.cs" Description="File successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\Professor.cs">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="Util.cs" Description="File successfully backed up as C:\Min\min\teaching\BUS-ADM-432-prohibited-spring 2016\AssignmentSolutions\Assignment5\Payroll\Backup\Util.cs">
+</Event><Event ErrorLevel="1" Project="Payroll" Source="Payroll.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="Payroll.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Payroll" Source="Payroll.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Payroll.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Payroll.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Payroll" Source="Payroll.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Registration\Registration\obj\Debug\Registration.exe
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Registration\Registration\obj\Debug\Registration.pdb
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Registration\Registration\bin\Debug\Registration.exe
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Registration\Registration\bin\Debug\Registration.pdb
+D:\min\teaching\BUS-ADM-813-prohibited\AssignmentSolutions\Assignment4\Registration\Registration\obj\Debug\ResolveAssemblyReference.cache
